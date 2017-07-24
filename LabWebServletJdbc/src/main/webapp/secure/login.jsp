@@ -13,7 +13,6 @@
 <body>
 
 <h3>Login</h3>
-<h1>第三次</h1>
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
 <table>
