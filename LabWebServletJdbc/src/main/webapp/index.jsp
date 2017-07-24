@@ -11,6 +11,13 @@
 
 <h3>Welcome ${user.custid}</h3>
 
+<h3>Welcome ${user.custname}</h3>
+<p>1123</p>
+
+<p>5</p>
+<p>6</p>
+
+
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
 <h3><a href="<c:url value="/bookss/book.jsp"/>">Book</a></h3>
