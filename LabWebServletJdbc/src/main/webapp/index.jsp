@@ -14,8 +14,8 @@
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
 
-<h3><a href="<c:url value="/books/product.jsp"/>">book</a></h3>
-
+<h3><a href="<c:url value="/books/book.jsp"/>">book</a></h3>
+<h3><a href="<c:url value="/foods/food.jsp"/>">book</a></h3>
 
 </body>
 </html>
