@@ -15,5 +15,9 @@
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
 <h3><a href="<c:url value="/bookss/book.jsp"/>">Book</a></h3>
 
+<h3>Welcome ${user.custname}</h3>
+
+<p>5</p>
+
 </body>
 </html>
